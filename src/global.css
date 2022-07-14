@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing;
+}
+
+
+body,textarea {
+    background: #FFF;
+    color: #1F1F1F;  
+    -webkit-font-smoothing: antialiased;
+    font-family: 'Inter', sans-serif;
+}
